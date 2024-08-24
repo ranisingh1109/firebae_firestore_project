@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "463224511599",
+    "firebase_url": "https://learn-firebase-b01df-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learn-firebase-b01df",
+    "storage_bucket": "learn-firebase-b01df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463224511599:android:571c78c9d4391c560dc19a",
+        "android_client_info": {
+          "package_name": "com.example.firebae_firestore_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xN74IkYeH8hOwK9bnhj6_AWfjyk2YxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463224511599:android:cbf7f9d63be5c4d60dc19a",
+        "android_client_info": {
+          "package_name": "com.example.learn_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xN74IkYeH8hOwK9bnhj6_AWfjyk2YxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463224511599:android:7bb09ed3eeca7e070dc19a",
+        "android_client_info": {
+          "package_name": "com.example.razorpay_payments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xN74IkYeH8hOwK9bnhj6_AWfjyk2YxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
